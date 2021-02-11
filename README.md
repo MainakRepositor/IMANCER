@@ -44,6 +44,5 @@ git push heroku master
 
 
 #### By
-+ Jesus Saves @JCharisTech
-+ Jesse E.Agbe(JCharis)
++ Mainak Chaudhuri
 
