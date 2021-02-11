@@ -1,4 +1,4 @@
-# face_detection_app
+# IMANCER
 + Streamlit App with OpenCV
 
 ### How to Deploy on Heroku
