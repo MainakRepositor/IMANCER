@@ -30,6 +30,7 @@ else:
     st.image(input_img, use_column_width=True)
     st.write("**Output Pencil Sketch**")
     st.image(final_sketch, use_column_width=True)
+    st.warning('Please take screenshot of sketch if using mobile device')
     if st.button("Download Sketch Images"):
         im_pil = Image.fromarray(final_sketch)
         im_pil.save('final_image.jpeg')
